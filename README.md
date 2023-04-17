@@ -26,9 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [Author](#author)
 
 ### Links
-
-- Solution URL: [Github repo](https://github.com/filecc/FM-dictionary-web-app)
-- Live Site URL: [Live Site](https://filecc.github.io/FM-dictionary-web-app/)
+- Live Site URL: [Live Site](https://dictionary-filecc.vercel.app/)
 
 ## My process
 
